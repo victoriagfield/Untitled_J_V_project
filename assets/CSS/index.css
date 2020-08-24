@@ -1,0 +1,31 @@
+
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 56px;
+  z-index: 1;
+  background: #b58890;
+  color: #cdb6bc;
+  font-family: 'Kalam', cursive;
+}
+
+.navbarTogglerIcon{
+  border: 5px white;
+}
+
+#navText{
+  color: white;
+}
+
+#navText:hover{
+  color: #565475;
+  font-weight: bold;
+}
+
+#ulList{
+  margin-left: 70%;
+  font-size: 20px;
+}
+
