@@ -29,3 +29,57 @@
   font-size: 20px;
 }
 
+.float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 20%;
+}
+
+.firstFeature , .secondFeature , .thirdFeature{
+margin-bottom: 20px;
+padding: 50px;
+height: 300px;
+background-color: #cdb6bc;
+color: #ffffff;
+border: 5px solid #b58890;
+}
+
+/*This is for when we have company images using my own as filler for right now*/
+.firstFeature img , .secondFeature img , .thirdFeature img{
+  max-height: 200px;
+}
+
+.firstFeatureh2 , .secondFeature h2 , .thirdFeature h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.aboutThePage {
+  margin-top: 20%;
+  margin-right: 20px;
+  padding: 40px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #cdb6bc;
+  color: #ffffff;
+  text-align: center;
+  border: 5px solid #b58890;
+}
+
+#leafIcon{
+
+}
